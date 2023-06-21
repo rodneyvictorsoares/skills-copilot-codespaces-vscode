@@ -1,23 +1,3 @@
-function multiplicateNumbers(a, b) {
-  return a * b;
+function calculateNumbers(var1, var2){
+    console.log(var1 + var2);
 }
-
-function sumNumbers(a, b) {
-  return a + b;
-}
-
-function divideNumbers(a, b) {
-    return a / b;
-}
-
-function substractNumbers(a, b) {
-    return a - b;
-}
-
-module.exports = {
-    multiplicateNumbers,
-    sumNumbers,
-    divideNumbers,
-    substractNumbers
-}
-
